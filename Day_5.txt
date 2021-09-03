@@ -33,6 +33,6 @@ fs.rmdirSync('folder_name')
 
 Additional Stuff -
 
-There is no such command as 'fs.createFileSync'. Just use fs.writeFileSync('../file.txt') for the same.
+There is no such command as 'fs.createFileSync'. Just use fs.writeFileSync('../file.txt', '') for the same.
 
 One can end each command with a semicolon(;) but I personally don't like em!
